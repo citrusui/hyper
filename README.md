@@ -9,7 +9,7 @@ My personal setup for [Hyper,](https://hyper.is) a terminal emulator built on we
 ## Install
 
 ```sh
-source hyper/init.sh
+git clone https://github.com/citrusui/hyper && source hyper/init.sh
 ```
 
 Licensed under [MIT.](LICENSE.md)
